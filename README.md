@@ -4,7 +4,7 @@
 
 # 📝 To-Do Application
 
-A simple and user-friendly To-Do App that helps users manage daily tasks efficiently. Built with [your tech stack: e.g., HTML/CSS/JavaScript or React/Node.js].
+A simple and user-friendly To-Do App that helps users manage daily tasks efficiently.
 
 ---
 
